@@ -1,6 +1,6 @@
 {
   "name": "npm-stringutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplifying string operations",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,9 @@
     "stringutils"
   ],
   "author": "Ashwin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashwindmk/npm_stringutils.git"
+  }
 }
