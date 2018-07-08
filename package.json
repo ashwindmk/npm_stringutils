@@ -1,0 +1,15 @@
+{
+  "name": "npm-stringutils",
+  "version": "1.0.0",
+  "description": "Simplifying string operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "stringutils"
+  ],
+  "author": "Ashwin",
+  "license": "ISC"
+}
